@@ -1,0 +1,16 @@
+--4A0B   all bulls
+
+--contain same digits will raise exception?
+
+--length more than 10 will raise exception
+
+
+--0A4B   all cows
+--1A2B   everything
+--2A2B   bulls and cows
+--0A0B   no bulls and no cows
+--compare with string?
+--fix bug:0 can't matches as cows/bulls?
+
+#"1234" bulls/cows("12345") will raise IncompatibleException
+introduce a Mask helper class
